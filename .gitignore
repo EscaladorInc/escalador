@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<.style.visibility = 'hidden';<<<<< HEAD
 # Logs
 logs
 *.log
@@ -129,3 +129,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+credentials.json
