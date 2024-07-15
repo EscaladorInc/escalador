@@ -1,3 +1,5 @@
+import * as css from "../styles/styles.css";
+
 console.log(
   "Checked: ",
   document.querySelector("input[name=type_selection]:checked")?.value
