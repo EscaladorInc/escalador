@@ -1,4 +1,4 @@
-import * as css from "../styles/styles.css";
+import "../styles/styles.css";
 
 console.log(
   "Checked: ",
